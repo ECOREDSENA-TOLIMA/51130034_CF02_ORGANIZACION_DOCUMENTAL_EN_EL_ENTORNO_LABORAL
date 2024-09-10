@@ -14,7 +14,7 @@
       .col-lg-8.col-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span <i>PTE TITULO.</i>
+          span <i>Ecuación de la organización.</i>
       .row.justify-content-center
         .col-lg-8.col-md-12.col-12
           figure.desktop

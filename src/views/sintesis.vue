@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") Por medio del siguiente mapa conceptual, se presenta de manera precisa los aspectos más destacados de la temática tratada durante este componente formativo, los cuales hacen parte del ordenamiento documental y las transferencias documentales.
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")

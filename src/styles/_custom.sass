@@ -57,7 +57,7 @@
 //   background-position: center
 
 .tarjeta--azul
-  background-color: #DEDDE8
+  background-color: #E3E8EF
 .tarjeta--tabla
   background-color: #E1D6CB
 .tarjeta--tabla1
@@ -79,7 +79,7 @@
 
 .BG01
   background-image: url("../assets/curso/temas/BG01.png")
-  background-size: 115% 
+  background-size: cover 
   background-repeat: no-repeat
   background-position: center
 
@@ -110,6 +110,30 @@
   background-repeat: no-repeat
   background-position: center
 
+.tarjeta--boton
+  background-image: url('../assets/curso/temas/BG06.svg')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  height: 100%
+
+.tarjeta--boton:hover
+  background-image: url('../assets/curso/temas/BG05.svg')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  height: 100%
+
+.tarjeta-numerada
+  height: 100%
+
+.tarjeta-numerada.color-gris 
+  color: #E3E8EF
+  
+.tarjeta-numerada__numero
+  background-color: #E3E8EF
+  
+
 // comillas cajon de texto
 
 .cajon.cajon1
@@ -119,6 +143,7 @@
 
 .bloque-texto-f__comillas i
   color: #B4997F
+
 
 // titulo
 
@@ -162,7 +187,11 @@
 
 // acordions
 .acordion__activo
-  background-color: #FFF8E7
+  background-color: #FFEDC8
+.acordion__accion__btn--a
+  background-color: #003AA9
+.acordion__accion__btn--a i
+  color: #fff
 .acordion__accion__btn--b
   background-color: #003AA9
 .acordion__accion__btn--b i
@@ -196,11 +225,14 @@
 .linea-tiempo-d.color-acento-botones.especial
   .linea-tiempo-d__item--selected
     .linea-tiempo-d__item__content
-      background-color: #FFF8E7 !important
+      background-color: #EBDDCF !important
   .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
-    background-color: #DEDDE8
+    background-color: #E3E8EF
 .tarjeta.tarjeta--gris
-  background-color: #DEDDE8
+  background-color: #E3E8EF
+
+.linea-tiempo-d__item__content__title
+  height: 50px
 
 //linea de tiempo C
 
@@ -284,10 +316,12 @@
   color: #2F6261
 
 //// Tarjetas --------------------------------------
+.img50
+  width: 50px
 .img100
   width: 100px
 .img250
-  width: 250px  
+  width: 250px
 .crd
   &.brd--rad
     border-radius: 20px 

@@ -134,28 +134,106 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: 'Ordenación documental',
+      referencia:
+        'Jiménez, González. G. (2003). Ordenación documental. División de clasificación y descripción. Bogotá: Archivo General de la Nación.',
+      tipo: 'Documento',
+      link:
+        'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/DOCUMENTOS%20TECNICOS/CARTILLA%20DE%20ORDENACION%20DOCUMENTAL.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Transferencia documental',
+      referencia:
+        'Julia, G. y López Ávila, M. I. (2001). Cartilla de Clasificación Documental. Bogotá: Archivo General de la Nación.',
+      tipo: 'Documento',
+      link:
+        'https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/5_Consulte/Recursos/Publicacionees/Minimanual_TRD.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Acervo documental',
+      significado: 'conjunto de documentos de un archivo.',
+    },
+    {
+      termino: 'Casetes',
+      significado:
+        'formato o medio donde se logra realizar grabaciones de sonido o video de cinta magnética, permitiendo guardar información documental. Actualmente, se encuentra sustituido por formatos de cinta de audio digital o compacto digital.',
+    },
+    {
+      termino: 'Conservación documental',
+      significado:
+        'comprende las estrategias y técnicas específicas para la protección de los materiales de archivo.',
+    },
+    {
+      termino: 'Disquetes',
+      significado:
+        'disco flexible con un formato de almacenamiento antiguo para la coyuntura, por su escaso volumen de acumulación en información ha sido sustituido por las memorias USB que son pequeñas y portátiles. Los disquetes se encuentran constituidos por una fracción circular de material magnético, fino y elástico (de ahí su denominación) encerrada en una carcasa de plástico, cuadrada o rectangular. Los disquetes se leen y se escriben mediante un dispositivo llamado disquetera.',
+    },
+    {
+      termino: 'Expediente',
+      significado:
+        'conjunto de documentos relacionados con un asunto que constituyen una unidad archivística. Unidad documental formada por un conjunto de documentos generados orgánica y funcionalmente por una oficina productora en la resolución de un mismo asunto.',
+    },
+    {
+      termino: 'Foliación',
+      significado: 'acción de numerar hojas.',
+    },
+    {
+      termino: 'Foliar',
+      significado:
+        'es el proceso de numerar ordenadamente las páginas de un documento.',
+    },
+    {
+      termino: 'Fondo documental',
+      significado:
+        'conjunto de documentos producidos por una persona natural o jurídica en desarrollo de sus funciones o actividades.',
+    },
+    {
+      termino: 'Preservación documental',
+      significado:
+        'acciones preventivas que contribuyen al buen estado de los acervos documentales.',
+    },
+    {
+      termino: 'Unidades de conservación',
+      significado:
+        'es el lugar en donde se desarrolla la gestión, administración y ejecución de los diversos procesos de conservación que se deben implementar en el archivo documental, para la preservación en el tiempo de los documentos.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Archivo General de la Nación. (20 de septiembre de 2002). Acuerdo No. 037 de 2002. Por el cual se establecen las especificaciones técnicas y los requisitos para la contratación de los servicios de depósito, custodia, organización, reprografía y conservación de documentos de archivo en desarrollo de los artículos 13 y 14 y sus Parágrafos 1 y 3 de la Ley General de Archivos 594 de 2000.',
+      link: 'https://normativa.archivogeneral.gov.co/acuerdo-37-de-2002/',
+    },
+    {
+      referencia:
+        'Archivo General de la Nación. (31 de octubre de 2014). Acuerdo No. 008 de 2014. Por el cual se establecen las especificaciones técnicas y los requisitos para la prestación de los servicios de depósito, custodia, organización, reprografía y conservación de documentos de archivo y demás procesos de la función archivística en desarrollo de los artículos 13° y 14° y sus parágrafos 1° y 3° de la Ley 594 de 2000.',
+      link:
+        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=61791#15',
+    },
+    {
+      referencia:
+        'Archivo General de la Nación. (2014). Formato Único de Inventario Documental.',
+      link:
+        'https://www.archivogeneral.gov.co/sites/default/files/Estructura_Web/2_Politica_archivistica/Instrumentos_Archivisticos/Formatounicoinventariodocumental.pdf',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (14 de julio de 2000). Ley 594 de 2000. Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones.',
+      link: 'http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4275',
+    },
+    {
+      referencia:
+        'Godoy, J., López, I., Casilimas, C. y otros. (s.f.). Tablas de retención y transferencias documentales. Bogotá: Archivo General de la Nación.',
+      link:
+        'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/9.%20disposicion%20final/DOCUMENTOS%20TECNICOS/MINIMANUAL%20TRD.pdf',
+    },
+    {
+      referencia:
+        'Jiménez, González. G. (2003). Ordenación documental. División de clasificación y descripción. Bogotá: Archivo General de la Nación.',
+      link:
+        'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/DOCUMENTOS%20TECNICOS/CARTILLA%20DE%20ORDENACION%20DOCUMENTAL.pdf',
     },
   ],
   creditos: [
@@ -178,9 +256,26 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Carmen Milena Ferreira Ardila',
+          cargo: 'Experta temática ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Rosa Elvia Quintero Guasca',
+          cargo: 'Asesora pedagógica',
+          centro:
+            'Centro Industrial de Mantenimiento Integral -Regional Santander',
+        },
+        {
+          nombre: 'Luis Orlando Beltrán Vargas',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial de Mantenimiento Integral -Regional Santander',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Evaluador instruccional ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -188,18 +283,28 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Oscar Ivan Uribe Ortiz',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Sebastian Trujillo Afanador',
+          cargo: 'Animación y Desarrollador <i>full stack</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Animador y productor audiovisual ',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -208,18 +313,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
