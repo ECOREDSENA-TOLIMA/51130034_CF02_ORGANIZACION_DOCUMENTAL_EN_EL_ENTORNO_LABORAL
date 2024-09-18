@@ -12,12 +12,14 @@
     .row.justify-content-center.mb-5
       .col-lg-10.col-12
         .row.justify-content-center
-          .col-lg-3.col-8.mb-3
+          .col-lg-3.col-6.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema4/1.png', alt='Imagen decorativa')
           .col-lg-9.col-12.mb-3
-            p Las unidades de conservación deben ser elaboradas en cartón neutro, si no se dispone de este material, se aplicará al cartón un recubrimiento que impida la acidificación por contacto. La resistencia del material y el diseño adoptado para la elaboración de las unidades de almacenamiento, deben estar acordes con el peso y el tamaño de la documentación a conservar. Para el ensamble no se utilizará adhesivo o materiales metálicos. La distancia libre entre la unidad de conservación y la bandeja superior debe ser mínimo de 4 cm.
-            p Para documentos en formato análogo como microfilm, cintas fonográficas, cintas de video, rollos cinematográficos y fotografía, entre otros; y, para digitales como disquetes, cintas DAT, CD, DVD, etc., se tendrá en cuenta lo siguiente:
+            p.mb-0 Las unidades de conservación deben ser elaboradas en cartón neutro, si no se dispone de este material, se aplicará al cartón un recubrimiento que impida la acidificación por contacto. La resistencia del material y el diseño adoptado para la elaboración de las unidades de almacenamiento, deben estar acordes con el peso y el tamaño de la documentación a conservar. Para el ensamble no se utilizará adhesivo o materiales metálicos. La distancia libre entre la unidad de conservación y la bandeja superior debe ser mínimo de 4 cm.
+            .bloque-texto-b.color-primario.py-4
+              .bloque-texto-b__texto
+                p.mb-0 Para documentos en formato análogo como microfilm, cintas fonográficas, cintas de video, rollos cinematográficos y fotografía, entre otros; y, para digitales como disquetes, cintas DAT, CD, DVD, etc., se tendrá en cuenta lo siguiente:
 
     TabsC.color-acento-botones.mb-5(data-aos="flip-up")
       .py-3.py-md-4(titulo="Las fotografías y negativos")

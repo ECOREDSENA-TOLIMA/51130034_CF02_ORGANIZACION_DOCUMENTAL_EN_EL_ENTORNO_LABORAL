@@ -28,7 +28,6 @@
           div.p-4(x="38%" y="28%" tooltip="Generalidades" numero="+")
             h5 Generalidades
             p Define lo esencial de la norma, precisando sus conceptos básicos, las directrices que fijan los requisitos, a manera de requerimientos esenciales para la gestión de documentos en las organizaciones. Se especifican aspectos a tener en cuenta, con el fin de garantizar que una organización cree y gestione los documentos que necesita. Los aspectos contemplados para implementar un plan de gestión de documentos son los siguientes:
-            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
             p - Cuadro reglamentario.
             p - Estrategia y responsabilidades.
             p - Obligaciones de la gestión de documentos.

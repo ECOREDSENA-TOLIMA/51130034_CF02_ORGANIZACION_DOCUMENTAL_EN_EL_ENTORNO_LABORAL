@@ -256,6 +256,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Santiago Lozada Garcés',
+          cargo: 'Líder línea de producción',
+          centro:
+            'Centro Industrial de Mantenimiento Integral -Regional Santander',
+        },
+        {
           nombre: 'Carmen Milena Ferreira Ardila',
           cargo: 'Experta temática ',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
