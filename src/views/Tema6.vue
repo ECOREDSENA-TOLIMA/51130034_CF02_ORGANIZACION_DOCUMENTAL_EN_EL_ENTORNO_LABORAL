@@ -88,7 +88,7 @@
           figure.movil
             img(src='@/assets/curso/temas/tema6/5_.svg', alt='Imagen que contiene un esquema donde se representa el archivo total, el cual relaciona los diferentes tipos de archivos dentro de cada una de las fases del ciclo vital y el tipo de transferencia al que pertenecen..')
 
-    p.mb-5(data-aos="fade-left") Para realizar con éxito la transferencia de retención documental, de un archivo de gestión al archivo central, de debe tener en cuenta:
+    p.mb-5(data-aos="fade-left") Para realizar con éxito la transferencia de retención documental, de un archivo de gestión al archivo central, se debe tener en cuenta:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12

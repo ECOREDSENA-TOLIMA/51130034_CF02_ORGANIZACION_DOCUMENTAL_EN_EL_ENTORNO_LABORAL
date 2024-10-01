@@ -59,7 +59,7 @@
       img(src='@/assets/curso/temas/ico.png', alt='Imagen decorativa')
       h5.mb-0 La preservación y conservación de los documentos
 
-    p.mb-4(data-aos="fade-left") La protección de los materiales contenidos en archivos y bibliotecas, requiere de la definición de estrategias y técnicas específicas, basadas, tanto en medidas preventivas, como correctivas, con el fin de asegurar la integridad de los documentos y la garantía de su funcionalidad. Las medidas de conservación de documentos comprenden los impresos y los digitales; se pretende con esta acción de preservación, prolongar la posibilidad de utilización en buenas condiciones y durante el mayor tiempo posible.
+    p.mb-4(data-aos="fade-left") La protección de los materiales contenidos en archivos y bibliotecas, requiere de la definición de estrategias y técnicas específicas, basadas, tanto en medidas preventivas, como correctivas, con el fin de asegurar la integridad de los documentos y la garantía de su funcionalidad. Las medidas de conservación de documentos comprenden los impresos y los digitales; se pretende, con esta acción de preservación, prolongar la posibilidad de utilización en buenas condiciones y durante el mayor tiempo posible.
     p.mb-5(data-aos="fade-left") Los servicios de depósito y custodia de documentos de archivo consideran los siguientes aspectos:
 
     .tarjeta.tarjeta--BG04.mb-5.p-4(data-aos="flip-up")

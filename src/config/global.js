@@ -241,8 +241,8 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Líder del ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -255,12 +255,6 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
-        {
-          nombre: 'Santiago Lozada Garcés',
-          cargo: 'Líder línea de producción',
-          centro:
-            'Centro Industrial de Mantenimiento Integral -Regional Santander',
-        },
         {
           nombre: 'Carmen Milena Ferreira Ardila',
           cargo: 'Experta temática ',
@@ -279,8 +273,14 @@ export default {
             'Centro Industrial de Mantenimiento Integral -Regional Santander',
         },
         {
+          nombre: 'Santiago Lozada Garcés',
+          cargo: 'Líder línea de producción',
+          centro:
+            'Centro Industrial de Mantenimiento Integral -Regional Santander',
+        },
+        {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Evaluador instruccional ',
+          cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -290,12 +290,12 @@ export default {
       autores: [
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -320,7 +320,7 @@ export default {
       autores: [
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

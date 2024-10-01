@@ -30,7 +30,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La teoría archivística cuenta con un principio que resulta fundamental para establecer la disposición física de los documentos, este principio es conocido como Principio de Orden Original y se encuentra referido al hecho de que los documentos se van originado paulatinamente, según las etapas o pasos por los que debe pasar para cumplir su trámite; esto quiere decir que los documentos se origina uno detrás de otro y también se pueden producir documentos dentro de una misma serie, con soportes de otras instancias, lo cual implica que la disposición física de los documentos, debe respetar la secuencia de los trámites que los produjo.
+        p.mb-0 La teoría archivística cuenta con un principio que resulta fundamental para establecer la disposición física de los documentos, este principio es conocido como Principio de Orden Original y se encuentra referido al hecho de que los documentos se van originando paulatinamente, según las etapas o pasos por los que debe pasar para cumplir su trámite; esto quiere decir que los documentos se origina uno detrás de otro y también se pueden producir documentos dentro de una misma serie, con soportes de otras instancias, lo cual implica que la disposición física de los documentos, debe respetar la secuencia de los trámites que los produjo.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
